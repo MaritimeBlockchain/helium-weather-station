@@ -64,4 +64,4 @@ Once you've printed the parts they should fit together - tolerances should be la
 
 If you're adding a solar panel that layer can be placed between the top layer and the bracket.
 
-![finished](https://raw.githubusercontent.com/maritimeblockchain/helium-weather-station/main/assets/finished.png)
+![finished](https://raw.githubusercontent.com/maritimeblockchain/helium-weather-station/main/assets/dashboard.png)
