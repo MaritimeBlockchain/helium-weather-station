@@ -55,3 +55,13 @@ I used an Anycubic Mega Pro loaded with white PETG filament to print the enclosu
 * M2 stainless steel machine screws (for securing the CubeCell board to the base)
 
 The holes in the top of the posts and in the upright stand for the CubeCell board on the base are tapping size for M4 and M2 respectively. This means that after it is printed you can run a standard tap into the hole and get some decent quality threads.
+
+Once you've printed the parts they should fit together - tolerances should be large enough to cater for minor variations in prints but you may need to clean up the edges of the holes in the layers if your first layer is a bit squashed.
+
+![parts](https://raw.githubusercontent.com/maritimeblockchain/helium-weather-station/main/assets/parts.png)
+
+![assembly](https://raw.githubusercontent.com/maritimeblockchain/helium-weather-station/main/assets/assembly.png)
+
+If you're adding a solar panel that layer can be placed between the top layer and the bracket.
+
+![finished](https://raw.githubusercontent.com/maritimeblockchain/helium-weather-station/main/assets/finished.png)
